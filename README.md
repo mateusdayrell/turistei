@@ -1,6 +1,6 @@
-# Travel Accommodation and Tour Booking Platform
+# ![Logo](https://github.com/mateusdayrell/turistei/blob/main/files/logo-2.png)
 
-This platform allows property owners to list their accommodations and tours, while travelers can browse and make reservations. The platform is built using Laravel, React, Inertia, and TailwindCSS, ensuring a dynamic, responsive, and modern user experience.
+Turistei is platform that allows property owners to list their accommodations and tours, while travelers can browse and make reservations. The platform is built using Laravel, React, Inertia, and TailwindCSS, ensuring a dynamic, responsive, and modern user experience.
 
 ## Key Features
 
@@ -21,6 +21,28 @@ This platform allows property owners to list their accommodations and tours, whi
 ## Note
 
 The source code for this platform is currently private. For any inquiries or interest in the project, feel free to reach out via the contact information provided.
+
+## Images
+
+- Login
+
+![Login](https://github.com/mateusdayrell/turistei/blob/main/files/1-login.jpeg)
+
+- Accomomdations
+
+![Accomomdations](https://github.com/mateusdayrell/turistei/blob/main/files/2-listagem.png)
+
+- Details
+
+![Details](https://github.com/mateusdayrell/turistei/blob/main/files/3-visualizar.jpeg)
+
+- Book
+
+![Book](https://github.com/mateusdayrell/turistei/blob/main/files/4-reservar.jpeg)
+
+- Email
+
+![Email](https://github.com/mateusdayrell/turistei/blob/main/files/5-email-confirmacao.png)
 
 ## Contact
 
